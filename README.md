@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MorganEro/React-Quiz)
-- Live Site URL: (morganero.github.io/react-quiz/)
+- Live Site URL: (https://morganero.github.io/React-Quiz/)
 
 ### Built with
 
