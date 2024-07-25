@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/MorganEro/usePopcorn)
-- Live Site URL: (morganero.github.io/usePopcorn/)
+- Solution URL: (https://github.com/MorganEro/React-Quiz)
+- Live Site URL: (morganero.github.io/react-quiz/)
 
 ### Built with
 
