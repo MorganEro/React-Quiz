@@ -107,7 +107,7 @@ function QuizProvider({ children }) {
   useEffect(function () {
     async function fetchQuestions() {
       try {
-        const response = await fetch(`http://localhost:8000/questions`);
+        const response = await fetch(`/data/questions.json`); //fetching data from local file
         if (!response.ok) throw new Error('Error fetching questions');
         const data = await response.json();
         if (data.Response === 'False') throw new Error('question not found');
